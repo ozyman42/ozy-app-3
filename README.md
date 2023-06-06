@@ -1,0 +1,6 @@
+- [ ] Publish on app store
+- [ ] Set up GCP Postgres w/ CDKTF
+- [ ] Integrate w/ ByBit API
+- [ ] Workout features
+- [ ] Step Counter
+- [ ] Deploy to Vercel
